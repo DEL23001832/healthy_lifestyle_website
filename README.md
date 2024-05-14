@@ -1,2 +1,2 @@
-# healthy_lifestyle_website
+# Living a Healthy Lifestyle
 Website about Healthy Lifestyles
